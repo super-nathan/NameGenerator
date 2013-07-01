@@ -1,0 +1,9 @@
+
+#syntax {
+	background: url(img/syntax.png) no-repeat right center;
+	padding:4px;
+}
+
+#error img {
+	cursor: pointer;
+}

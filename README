@@ -1,0 +1,18 @@
+NameGenerator
+=================
+Original Author: Marko Kaartinen
+Github:https://github.com/MarkoKaartinen/NameGenerator
+E-Mail: markokaartinen@gmail.com
+
+Current Author: Nathan Weber
+Github: https://github.com/super-nathan/NameGenerator
+WWW: http://www.super-nathan.com
+E-Mail: supernathansunshine@gmail.com
+
+
+NameGenerator uses some dictionary lists to create random throwaway ID's for whatever you might need. This script orriginally created realistic human names. In this iteration it attempts to pair a verb or an adjective to a noun to create an anonymouse handle.
+
+Powered by:
+- jQuery
+
+Word Lists Are from Ashley Bovan: http://www.ashley-bovan.co.uk
