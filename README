@@ -12,6 +12,8 @@ E-Mail: supernathansunshine@gmail.com
 
 NameGenerator uses some dictionary lists to create random throwaway ID's for whatever you might need. This script orriginally created realistic human names. In this iteration it attempts to pair a verb or an adjective to a noun to create an anonymouse handle.
 
+You can test this out at: http://handle.super-nathan.com
+
 Powered by:
 - jQuery
 
