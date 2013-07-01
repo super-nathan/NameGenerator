@@ -3,7 +3,7 @@
 <head>
 	<meta charset="utf-8">
 	
-	<title>NameGenerator 0.1</title>
+	<title>Handle Generator</title>
 	
 	<link rel="stylesheet" type="text/css" media="all" href="style.css" />
 	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js"></script>
